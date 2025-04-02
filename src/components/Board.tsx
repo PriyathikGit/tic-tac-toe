@@ -1,6 +1,6 @@
 import { FC } from 'react';
 import Square from './Square';
-import { BoardState, SquareValue } from '../types';
+import { BoardState } from '../types';
 import '../index.css';
 
 interface BoardProps {
